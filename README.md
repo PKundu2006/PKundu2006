@@ -2,8 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+profile;I'm+Pretom+Kundu;A+CSE+student+of+Khunlna+University&center=true&width=500&height=50)
 
-## My Details:
-> Current Education $$\space$$: Khulna University, $$\color{blue}CSE26$$ <br>
+##  <img src="info.webp" width="30" height="30">  My Details:
+> Current Education $$\space$$: Khulna University, CSE Discipline; <a href="https://ku.ac.bd/discipline/cse">KUCSE26</a> <br>
 > Home Address  $$\space \space \space \space \space \space$$ : Dhakuria, Monirampur, Jashore, Bangladesh <br>
 > Mobile No. $$\space \space \space \space \space \space \space \space \space \space \space \space \space$$ : +8801927008540
 
